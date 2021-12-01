@@ -4,7 +4,7 @@ Perkenalkan nama saya **Andi Sultan**.
 
 Saya seorang **Web Engineer** dengan pengalaman lebih dari 5 tahun. Spesialis di Frontend Web dan WordPress Development.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan lihat [Linkedin](https://www.linkedin.com/in/andi-sultan/).
+Jika kamu tertarik untuk bekerja bersama atau menawarkan project Web Development, silakan email saya ke andi.m.sultan@gmail.com atau melalui [Linkedin](https://www.linkedin.com/in/andi-sultan/).
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
