@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Andi Sultan**.
 
-Saya seorang **Software Enginner** di [Payfazz](https://www.payfazz.com/).
+Saya seorang **Web Engineer** dengan pengalaman lebih dari 5 tahun. Spesialis di Frontend Web dan WordPress Development.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan lihat [Linkedin](https://www.linkedin.com/in/andi-sultan/).
 
