@@ -1,6 +1,6 @@
 # Assalamu'alaikum
 
-Hi, saya **Andi Sultan** berpengalaman lebih dari 5 sebagai Front End Developer. 
+Hi, saya **Andi Sultan** berpengalaman lebih dari 5 tahun sebagai Front End Developer. 
 
 Teknologi yang saya gunakan :
 - Styled Component
