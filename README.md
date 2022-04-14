@@ -5,6 +5,7 @@ Hi, saya **Andi Sultan** berpengalaman lebih dari 5 tahun sebagai Front End Deve
 Teknologi yang saya gunakan :
 - Styled Component
 - ReactJS
+- Redux
 - NextJS
 - Axios
 - Cypress
