@@ -1,12 +1,20 @@
-# Assalamu'alaikum
+## Hi fellow developers <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-Hi, saya **Andi Sultan** berpengalaman lebih dari 5 tahun sebagai Front End Developer. 
+<p align="center">
+  <samp>I'm Andi Sultan. People like to call me Andi or Sultan<br />
+  I'm a frontend engineer at <a href="https://fazzfinancial.com">FazzFinancial</a>.
+</p>
 
-Teknologi yang saya gunakan :
-- Styled Component
-- ReactJS
-- Redux
-- NextJS
-- Axios
-- Cypress
-- Git
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andisultan&hide=html&layout=compact)
+
+### 🌱 A bit about me
+- A [JavaScript](https://www.ecma-international.org/ecma-262/) and [web performance](https://web.dev/measure/) addict.
+- Love to do outdoor activities, especially running and soccer.
+
+### ⚡️ A bit about my interest
+- [WordPress](https://wordpress.org)
+- [GSAP](https://greensock.com/gsap)
+- [Flutter](https://flutter.dev)
+
+### 📫 How to reach me
+- linkedin: [Andi Sultan](https://github.com/andisultan)
