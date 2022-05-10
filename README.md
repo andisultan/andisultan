@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andisultan&hide=html&layout=compact)
 
 ### 🌱 A bit about me
-- A [JavaScript](https://www.ecma-international.org/ecma-262/) and [web performance](https://web.dev/measure/) addict.
+- A [JavaScript](https://www.ecma-international.org/ecma-262/) addict and explore [web performance](https://web.dev/measure/).
 - Love to do outdoor activities, especially running and soccer.
 
 ### ⚡️ A bit about my interest
