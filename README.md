@@ -14,7 +14,6 @@
 ### ⚡️ A bit about my interest
 - [WordPress](https://wordpress.org)
 - [GSAP](https://greensock.com/gsap)
-- [Flutter](https://flutter.dev)
 
 ### 📫 How to reach me
 - linkedin: [Andi Sultan](https://github.com/andisultan)
