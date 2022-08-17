@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>I'm Andi Sultan. People like to call me Andi or Sultan<br />
-  I'm a frontend engineer at <a href="https://fazzfinancial.com">FazzFinancial</a>.
+  I'm a frontend engineer at with more than 7 years of experience.
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andisultan&hide=html&layout=compact)
