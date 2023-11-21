@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>I'm Andi Sultan. People like to call me Andi or Sultan<br />
-  I'm a frontend engineer at with more than 7 years of experience.
+  I am web engineer with experienced in (HTML, CSS, JavaScript, PHP, Go, TypeScript, React, Next, WordPress).
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andisultan&hide=html&layout=compact)
