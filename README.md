@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>I'm Andi Sultan. People like to call me Andi or Sultan<br />
-  I am web engineer with experienced in (HTML, CSS, JavaScript, TypeScript, React, Next, WordPress).
+  I am web engineer with experienced in (HTML, CSS, JavaScript, TypeScript, React, Vue, WordPress).
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andisultan&hide=html&layout=compact)
