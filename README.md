@@ -8,11 +8,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andisultan&hide=html&layout=compact)
 
 ### 🌱 A bit about me
-- A [JavaScript](https://www.ecma-international.org/ecma-262/) addict and explore [web performance](https://web.dev/measure/).
+- A [JavaScript](https://www.ecma-international.org/ecma-262/) enthusiast, web accessibility, animation and explore [web performance](https://web.dev/measure/).
 - Love to do outdoor activities, especially running and soccer.
 
 ### ⚡️ A bit about my interest
 - [WordPress](https://wordpress.org)
+- [Web accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 - [GSAP](https://greensock.com/gsap)
 
 ### 📫 How to reach me
